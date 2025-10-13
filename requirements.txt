@@ -1,0 +1,18 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.6
+sqlalchemy==2.0.25
+passlib==1.7.4
+python-jose[cryptography]==3.3.0
+bcrypt==4.1.2
+
+# TensorFlow (Python 3.12 compatible)
+tensorflow==2.19.1
+
+# Core scientific packages
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+Pillow==10.4.0
+matplotlib==3.9.2
+reportlab==4.2.2
+python-dateutil==2.9.0.post0
